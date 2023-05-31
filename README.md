@@ -11,12 +11,15 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
@@ -33,9 +36,12 @@
 
 This project contains HTML5 version and CSS.
 
+### Key Features <a name="key-features"></a>
+
+- **[Usage_of_pack.js]**
+- **[Implemented_with_linters]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -82,7 +88,14 @@ git clone "url".
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
 
+
+
+- [ ] **[Responsive_Design]**
+- [ ] **[Complete_webpage]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -93,7 +106,11 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## ⭐️ Show your support <a name="support"></a>
 
+If you like this project, I'd love you give all your feedback to improve this project, I'd gladdly apreciate that. 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank my family for encouraging me to continue along the way and believe on me.
